@@ -1,0 +1,6 @@
+InvoiceNumber,Item,Amount,Tax,Total,Currency,Date
+521389,"Waste management services",211587,42317.4,253904,RON,2017-11-12
+559835,"Professional Services",209248,41849.6,251098,RON,2017-11-01
+627522,"Waste management services",213286,42657.2,255943,RON,2017-11-01
+574491,"IT Support",13124,2624.8,15748.8,CAD,2017-11-05
+419023,"Professional Services",110943,22188.6,133132,CAD,2017-11-28

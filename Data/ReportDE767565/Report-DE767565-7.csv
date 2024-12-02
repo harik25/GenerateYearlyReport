@@ -1,0 +1,4 @@
+InvoiceNumber,Item,Amount,Tax,Total,Currency,Date
+239363,"Professional Services",10792,2158.4,12950.4,RON,2017-07-09
+442902,"IT Support",12100,2420,14520,CAD,2017-07-05
+893367,"Various paper supplies",289770,57954,347724,RON,2017-07-24
